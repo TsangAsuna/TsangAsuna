@@ -15,6 +15,8 @@ Focusing on iOS / Android behavior differences, subtitle & player internals, rem
 
 ## GitHub Stats
 
+[![NipaPlay-Reload](https://img.shields.io/github/stars/AimesSoft/NipaPlay-Reload?style=social)](https://github.com/AimesSoft/NipaPlay-Reload)
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=TsangAsuna&theme=tokyonight)
 
 ## Bangumi
