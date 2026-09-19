@@ -1,8 +1,8 @@
-# 👋 Hi there, I'm TsangAsuna
+# Hi there, I'm TsangAsuna
 
 Focusing on iOS / Android behavior differences, subtitle & player internals, remote-cache and CI release pipelines.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Area | Tech |
 |---|---|
@@ -13,13 +13,13 @@ Focusing on iOS / Android behavior differences, subtitle & player internals, rem
 | Scripting / Ops | Python, GitHub Actions, PowerShell |
 | Game / Visual Novel | Kirikiri Z (krkrz), TJS, SDL |
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![TsangAsuna's GitHub stats](https://github-readme-stats.vercel.app/api?username=TsangAsuna&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=TsangAsuna&layout=compact&theme=tokyonight)
 
-## ✍️ Blog
+## Blog
 
 - Blog: https://tsangasuna.pages.dev/
 
