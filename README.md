@@ -1,4 +1,4 @@
-# Hi there, I'm TsangAsuna
+# TsangAsuna  です~
 
 Focusing on iOS / Android behavior differences, subtitle & player internals, remote-cache and CI release pipelines.
 
