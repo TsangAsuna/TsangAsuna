@@ -15,9 +15,11 @@ Focusing on iOS / Android behavior differences, subtitle & player internals, rem
 
 ## GitHub Stats
 
-![TsangAsuna's GitHub stats](https://github-readme-stats.vercel.app/api?username=TsangAsuna&theme=tokyonight)
+![TsangAsuna's GitHub stats](https://github-readme-stats.vercel.app/api?username=TsangAsuna&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=TsangAsuna&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TsangAsuna&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=TsangAsuna&theme=tokyonight)
 
 ## Blog
 
