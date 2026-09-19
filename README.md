@@ -13,12 +13,6 @@ Focusing on iOS / Android behavior differences, subtitle & player internals, rem
 | Scripting / Ops | Python, GitHub Actions, PowerShell |
 | Game / Visual Novel | Kirikiri Z (krkrz), TJS, SDL |
 
-## GitHub Stats
-
-[![NipaPlay-Reload](https://img.shields.io/github/stars/AimesSoft/NipaPlay-Reload?style=social)](https://github.com/AimesSoft/NipaPlay-Reload)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=TsangAsuna&theme=tokyonight)
-
 ## Bangumi
 
 [![Bangumi](https://bgm.tv/img/logo.png)](https://bgm.tv/user/781647)
